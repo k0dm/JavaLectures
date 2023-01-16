@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/CreateNewTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/DesignTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/ProgramTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/TypeOfEmployee.java" afterDir="false" />
+    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture25-homework">
+      <change afterPath="$PROJECT_DIR$/src/lecture26/CallbackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/EmployeeChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/TaskFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/TaskHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/TaskProgressCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture26/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLe/lecture25/CashedDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLe/lecture25/CashedDataSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/SolveTheTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/SolveTheTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/CreateOrSolveTheTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Designer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/Programmer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/SolveTheTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/SolveTheTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +32,45 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lectures" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/CreateNewTask.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/DesignTask.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Designer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Employee.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/ProgramTask.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Programmer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/SolveTheTask.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lecture25_homework/Tester.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JrJkYHDj7yzFVltBZSNCikELkb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -82,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673797612028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lecture25-homework">
+      <created>1673867425733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673867425733</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lecture25-homework">
+      <created>1673867439037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673867439037</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +137,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="lecture25-homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture25-homework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture26/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lecture26/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

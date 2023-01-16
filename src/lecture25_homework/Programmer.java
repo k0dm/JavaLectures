@@ -15,7 +15,5 @@ public class Programmer extends Employee {
         }
         return curTask;
     }
-    public void dd(){
 
-    }
 }
