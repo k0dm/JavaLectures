@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="" />
+    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/CreateNewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/DesignTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/ProgramTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture25_homework/TypeOfEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLe/lecture25/CashedDataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLe/lecture25/CashedDataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/SolveTheTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLe/lecture25_homework/SolveTheTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/CreateOrSolveTheTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Designer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/SolveTheTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/SolveTheTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture25_homework/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture25_homework/Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,31 +27,40 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
         <option value="Interface" />
-        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JrJkYHDj7yzFVltBZSNCikELkb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/fight/IdeaProjects/JavaLectures"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fight/IdeaProjects/JavaLectures&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lecture25_homework" />
@@ -49,6 +75,29 @@
       <option name="presentableId" value="Default" />
       <updated>1672830412855</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1673797612028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673797612028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

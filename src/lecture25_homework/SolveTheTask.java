@@ -1,5 +1,7 @@
 package lecture25_homework;
 
 public interface SolveTheTask {
-    void solveTask();
+    Task solveTask(Task task);
+    boolean canSolveTask(Task task);
+
 }
