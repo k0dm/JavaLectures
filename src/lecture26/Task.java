@@ -47,10 +47,9 @@ public class Task {
         return buildLink;
     }
 
-    enum Status {
+    public enum Status {
         ASSEMBLING_REQUIREMENTS,
         READY_TO_DO,
-        IN_PROGRESS,
         READY_FOR_TESTING,
         DONE
     }

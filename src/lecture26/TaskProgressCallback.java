@@ -1,6 +1,6 @@
 package lecture26;
 
-public interface TaskProgressCallback {
+interface TaskProgressCallback {
 
     void updateTask(Task task);
 }

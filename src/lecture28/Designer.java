@@ -1,6 +1,8 @@
-package lecture26;
+package lecture28;
 
- class Designer extends Employee{
+import lecture26.Task;
+
+public class Designer extends Employee {
     protected Designer(TaskProgressCallback callback, String name) {
         super(callback, name, Task.Status.ASSEMBLING_REQUIREMENTS);
     }
