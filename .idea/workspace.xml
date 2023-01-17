@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture26">
+    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture29 task1">
       <change afterPath="$PROJECT_DIR$/src/lecture29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/CommonTriangleChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/EquilateralTriangleChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/IsoscelesTriangleChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/RightTriangleChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task1/TriangleChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/HasNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/IsEmptyValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/SizeValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task2/ValidatorChain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +83,7 @@
       <recent name="lecture28" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture29.task1.Main">
+  <component name="RunManager" selected="Application.lecture29.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture28.Main" />
       <module name="JavaLe" />
@@ -125,8 +123,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture29.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture29.task2.Main" />
+      <module name="JavaLe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture29.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture29.task2.Main" />
         <item itemvalue="Application.lecture29.task1.Main" />
         <item itemvalue="Application.lecture29.Main" />
         <item itemvalue="Application.Main" />
@@ -170,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673959102567</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lecture29 task1">
+      <created>1673970472057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673970472057</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +208,7 @@
     <MESSAGE value="lecture25-homework" />
     <MESSAGE value="lecture26" />
     <MESSAGE value="lecture27-29 ArrayList, Observer" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture27-29 ArrayList, Observer" />
+    <MESSAGE value="lecture29 task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture29 task1" />
   </component>
 </project>
