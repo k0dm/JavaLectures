@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture29 task4">
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task4_answer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/NotifyUnloaderCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/TruckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/TruckUnloadCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Unloader.java" afterDir="false" />
+    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture29 task5">
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture29/Main.java" afterDir="false" />
     </list>
@@ -83,7 +75,7 @@
       <recent name="lecture28" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture29.task5.Main">
+  <component name="RunManager" selected="Application.lecture29.task6.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture29.task5.Main" />
       <module name="JavaLe" />
@@ -103,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lecture29.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture29.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture29.task3.Main" />
-      <module name="JavaLe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lecture29.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lecture29.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture29.task6.Main" />
+      <module name="JavaLe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture29.task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lecture29.task6.Main" />
         <item itemvalue="Application.lecture29.task5.Main" />
         <item itemvalue="Application.lecture29.Main" />
         <item itemvalue="Application.lecture29.task4_answer.Main" />
         <item itemvalue="Application.lecture29.task4.Main" />
-        <item itemvalue="Application.lecture29.task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674306648649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lecture29 task5">
+      <created>1674327020829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674327020829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +213,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="lecture25-homework" />
     <MESSAGE value="lecture29 task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture29 task4" />
+    <MESSAGE value="lecture29 task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture29 task5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
