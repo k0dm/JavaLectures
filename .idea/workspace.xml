@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture29 task4">
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task4_answer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/NotifyUnloaderCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/TruckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/TruckUnloadCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture29/task5/Unloader.java" afterDir="false" />
+    <list default="true" id="21261dab-a167-41ec-ba87-7f8da750d6ca" name="Changes" comment="lecture29 task7">
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture29/task8/SafeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture29/task5/TruckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture29/task5/TruckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture29/task5/Unloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture29/task5/Unloader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +55,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/fight/IdeaProjects/JavaLectures/src/lecture29/task5"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fight/IdeaProjects/JavaLectures/src/lecture29/task5&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lecture25_homework" />
@@ -83,7 +79,7 @@
       <recent name="lecture28" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lecture29.task5.Main">
+  <component name="RunManager" selected="Application.lecture29.task8.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture29.task5.Main" />
       <module name="JavaLe" />
@@ -110,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture29.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture29.task3.Main" />
+    <configuration name="lecture29.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture29.task6.Main" />
       <module name="JavaLe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture29.task3.*" />
+          <option name="PATTERN" value="lecture29.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture29.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture29.task4.Main" />
+    <configuration name="lecture29.task7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture29.task7.Main" />
       <module name="JavaLe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture29.task4.*" />
+          <option name="PATTERN" value="lecture29.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lecture29.task4_answer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture29.task4_answer.Main" />
+    <configuration name="lecture29.task8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture29.task8.Main" />
       <module name="JavaLe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture29.task4_answer.*" />
+          <option name="PATTERN" value="lecture29.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lecture29.task5.Main" />
+        <item itemvalue="Application.lecture29.task8.Main" />
+        <item itemvalue="Application.lecture29.task7.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lecture29.task6.Main" />
         <item itemvalue="Application.lecture29.Main" />
-        <item itemvalue="Application.lecture29.task4_answer.Main" />
-        <item itemvalue="Application.lecture29.task4.Main" />
-        <item itemvalue="Application.lecture29.task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +192,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674306648649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lecture29 task5">
+      <created>1674327020829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674327020829</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lecture29 task6">
+      <created>1674328976650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674328976650</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lecture29 task7">
+      <created>1674469359580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674469359580</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +231,10 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="lecture25-homework" />
     <MESSAGE value="lecture29 task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lecture29 task4" />
+    <MESSAGE value="lecture29 task5" />
+    <MESSAGE value="lecture29 task6" />
+    <MESSAGE value="lecture29 task7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture29 task7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,11 +247,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lecture29/task5/Unloader.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
